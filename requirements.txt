@@ -1,7 +1,7 @@
 aiogram==2.23.1
-aiohttp==3.8.1
-newspaper3k==0.2.8
-googletrans==4.0.0-rc1
-requests-html==0.10.0
-python-dateutil==2.8.2
-asyncio==3.4.3
+aiohttp
+newspaper3k
+googletrans
+requests-html
+python-dateutil
+asyncio
