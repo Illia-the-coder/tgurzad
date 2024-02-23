@@ -1,7 +1,10 @@
 aiogram==2.23.1
 aiohttp
 newspaper3k
-googletrans
 requests-html
 python-dateutil
 asyncio
+certifi
+requests
+deepl
+pytz
