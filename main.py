@@ -13,8 +13,6 @@ import requests
 import ssl
 import certifi 
 import deepl
-import asyncio
-import schedule  # Install with pip install schedule
 import time
 
 async def translate_from_pl(text):
