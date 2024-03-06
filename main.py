@@ -275,7 +275,7 @@ async def send_message_to_tg_channel(city, chat_id, send_channel=False):
 
 
 async def daily_parsing_task():
-    chat_id = '1245273083'  # Replace with the actual chat ID or logic to determine it
+    chat_id = '5145383951'  # Replace with the actual chat ID or logic to determine it
     stat = ''
     n=0
     for city in polish_cities_websites.keys():
